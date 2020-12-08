@@ -17,7 +17,6 @@ target/
 .springBeans
 
 ### IDEA ###
-*.iml
 *.ipr
 *.iws
 .idea
@@ -25,9 +24,8 @@ target/
 .project
 .settings/
 bin/
-
-*.log
 tmp/
 
 #rebel
 *rebel.xml*
+/out/
