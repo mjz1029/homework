@@ -1,0 +1,59 @@
+{
+    "data": {
+        "yesterday": {
+            "date": "9日星期一",
+            "high": "高温 8℃",
+            "fx": "东南风",
+            "low": "低温 0℃",
+            "fl": "<![CDATA[3级]]>",
+            "type": "晴"
+        },
+        "city": "乌鲁木齐",
+        "forecast": [
+            {
+                "date": "10日星期二",
+                "high": "高温 7℃",
+                "fengli": "<![CDATA[2级]]>",
+                "low": "低温 0℃",
+                "fengxiang": "西北风",
+                "type": "晴"
+            },
+            {
+                "date": "11日星期三",
+                "high": "高温 10℃",
+                "fengli": "<![CDATA[2级]]>",
+                "low": "低温 1℃",
+                "fengxiang": "东南风",
+                "type": "晴"
+            },
+            {
+                "date": "12日星期四",
+                "high": "高温 11℃",
+                "fengli": "<![CDATA[1级]]>",
+                "low": "低温 1℃",
+                "fengxiang": "东风",
+                "type": "晴"
+            },
+            {
+                "date": "13日星期五",
+                "high": "高温 7℃",
+                "fengli": "<![CDATA[2级]]>",
+                "low": "低温 0℃",
+                "fengxiang": "西北风",
+                "type": "阴"
+            },
+            {
+                "date": "14日星期六",
+                "high": "高温 6℃",
+                "fengli": "<![CDATA[1级]]>",
+                "low": "低温 0℃",
+                "fengxiang": "西北风",
+                "type": "阴"
+            }
+        ],
+        "ganmao": "感冒多发期，适当减少外出频率，适量补充水分，适当增减衣物。",
+        "wendu": "6"
+    },
+    "status": 1000,
+    "desc": "OK"
+}
